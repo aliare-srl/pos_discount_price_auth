@@ -19,7 +19,6 @@
             'pos_discount_price_auth/static/src/js/Screens/ProductScreen/ProductScreen.js',
         ],
         'web.assets_qweb': [
-            # 'pos_ticket_fel/static/src/xml/**/*',
         ],
     },
     'license': 'LGPL-3',
